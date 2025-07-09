@@ -1,0 +1,433 @@
+id,year,month,department,category,budget_eur,version
+1,2023,01,HR,Salaries,4046.14,v1
+2,2023,01,HR,Training,2020.66,v1
+3,2023,01,HR,Recruitment,3237.9,v1
+4,2023,01,Medical,Medications,3282.13,v1
+5,2023,01,Medical,Medical Equipment,4840.12,v1
+6,2023,01,Medical,Consultations,4891.63,v1
+7,2023,01,Logistics,Fuel,3983.15,v1
+8,2023,01,Logistics,Transport,4486.06,v1
+9,2023,01,Logistics,Vehicle Maintenance,1207.42,v1
+10,2023,01,Supply,Supplies,4529.14,v1
+11,2023,01,Supply,Warehousing,4149.77,v1
+12,2023,01,Supply,Cold Chain,2167.48,v1
+13,2023,02,HR,Salaries,2457.96,v1
+14,2023,02,HR,Training,2141.46,v1
+15,2023,02,HR,Recruitment,1560.0,v1
+16,2023,02,Medical,Medications,3982.51,v1
+17,2023,02,Medical,Medical Equipment,4889.4,v1
+18,2023,02,Medical,Consultations,2496.53,v1
+19,2023,02,Logistics,Fuel,1333.09,v1
+20,2023,02,Logistics,Transport,2825.09,v1
+21,2023,02,Logistics,Vehicle Maintenance,2867.41,v1
+22,2023,02,Supply,Supplies,2522.3,v1
+23,2023,02,Supply,Warehousing,3717.97,v1
+24,2023,02,Supply,Cold Chain,4192.07,v1
+25,2023,03,HR,Salaries,1448.3,v1
+26,2023,03,HR,Training,1754.88,v1
+27,2023,03,HR,Recruitment,2241.3,v1
+28,2023,03,Medical,Medications,4883.86,v1
+29,2023,03,Medical,Medical Equipment,4434.2,v1
+30,2023,03,Medical,Consultations,1336.52,v1
+31,2023,03,Logistics,Fuel,1966.11,v1
+32,2023,03,Logistics,Transport,3297.37,v1
+33,2023,03,Logistics,Vehicle Maintenance,3716.36,v1
+34,2023,03,Supply,Supplies,4694.12,v1
+35,2023,03,Supply,Warehousing,2128.22,v1
+36,2023,03,Supply,Cold Chain,4650.33,v1
+37,2023,04,HR,Salaries,2729.13,v1
+38,2023,04,HR,Training,1354.45,v1
+39,2023,04,HR,Recruitment,4198.83,v1
+40,2023,04,Medical,Medications,4637.84,v1
+41,2023,04,Medical,Medical Equipment,4383.85,v1
+42,2023,04,Medical,Consultations,3950.38,v1
+43,2023,04,Logistics,Fuel,1910.12,v1
+44,2023,04,Logistics,Transport,3156.45,v1
+45,2023,04,Logistics,Vehicle Maintenance,1294.62,v1
+46,2023,04,Supply,Supplies,4381.98,v1
+47,2023,04,Supply,Warehousing,3583.07,v1
+48,2023,04,Supply,Cold Chain,2712.08,v1
+49,2023,05,HR,Salaries,3945.96,v1
+50,2023,05,HR,Training,2529.63,v1
+51,2023,05,HR,Recruitment,4152.72,v1
+52,2023,05,Medical,Medications,1315.96,v1
+53,2023,05,Medical,Medical Equipment,1457.64,v1
+54,2023,05,Medical,Consultations,1456.19,v1
+55,2023,05,Logistics,Fuel,2635.79,v1
+56,2023,05,Logistics,Transport,1710.7,v1
+57,2023,05,Logistics,Vehicle Maintenance,3247.02,v1
+58,2023,05,Supply,Supplies,2792.4,v1
+59,2023,05,Supply,Warehousing,2386.03,v1
+60,2023,05,Supply,Cold Chain,1710.45,v1
+61,2023,06,HR,Salaries,1192.0,v1
+62,2023,06,HR,Training,1160.38,v1
+63,2023,06,HR,Recruitment,2764.69,v1
+64,2023,06,Medical,Medications,4124.99,v1
+65,2023,06,Medical,Medical Equipment,4061.38,v1
+66,2023,06,Medical,Consultations,1098.19,v1
+67,2023,06,Logistics,Fuel,2492.69,v1
+68,2023,06,Logistics,Transport,2359.96,v1
+69,2023,06,Logistics,Vehicle Maintenance,1584.21,v1
+70,2023,06,Supply,Supplies,1724.47,v1
+71,2023,06,Supply,Warehousing,1011.3,v1
+72,2023,06,Supply,Cold Chain,2978.69,v1
+73,2023,07,HR,Salaries,4079.26,v1
+74,2023,07,HR,Training,1774.08,v1
+75,2023,07,HR,Recruitment,1015.24,v1
+76,2023,07,Medical,Medications,1225.7,v1
+77,2023,07,Medical,Medical Equipment,4934.83,v1
+78,2023,07,Medical,Consultations,3164.18,v1
+79,2023,07,Logistics,Fuel,2640.31,v1
+80,2023,07,Logistics,Transport,2274.8,v1
+81,2023,07,Logistics,Vehicle Maintenance,4074.16,v1
+82,2023,07,Supply,Supplies,1568.53,v1
+83,2023,07,Supply,Warehousing,4853.65,v1
+84,2023,07,Supply,Cold Chain,3026.8,v1
+85,2023,08,HR,Salaries,1925.15,v1
+86,2023,08,HR,Training,1942.4,v1
+87,2023,08,HR,Recruitment,2408.39,v1
+88,2023,08,Medical,Medications,1093.86,v1
+89,2023,08,Medical,Medical Equipment,3300.01,v1
+90,2023,08,Medical,Consultations,4403.88,v1
+91,2023,08,Logistics,Fuel,4996.83,v1
+92,2023,08,Logistics,Transport,4991.04,v1
+93,2023,08,Logistics,Vehicle Maintenance,1047.47,v1
+94,2023,08,Supply,Supplies,1939.55,v1
+95,2023,08,Supply,Warehousing,4402.87,v1
+96,2023,08,Supply,Cold Chain,3028.36,v1
+97,2023,09,HR,Salaries,3843.52,v1
+98,2023,09,HR,Training,1942.86,v1
+99,2023,09,HR,Recruitment,1498.31,v1
+100,2023,09,Medical,Medications,3978.26,v1
+101,2023,09,Medical,Medical Equipment,2677.04,v1
+102,2023,09,Medical,Consultations,4702.36,v1
+103,2023,09,Logistics,Fuel,2501.6,v1
+104,2023,09,Logistics,Transport,4399.01,v1
+105,2023,09,Logistics,Vehicle Maintenance,2228.92,v1
+106,2023,09,Supply,Supplies,2255.51,v1
+107,2023,09,Supply,Warehousing,3678.15,v1
+108,2023,09,Supply,Cold Chain,2129.11,v1
+109,2023,10,HR,Salaries,4624.03,v1
+110,2023,10,HR,Training,3356.41,v1
+111,2023,10,HR,Recruitment,1464.1,v1
+112,2023,10,Medical,Medications,2341.34,v1
+113,2023,10,Medical,Medical Equipment,4436.6,v1
+114,2023,10,Medical,Consultations,4089.41,v1
+115,2023,10,Logistics,Fuel,1538.98,v1
+116,2023,10,Logistics,Transport,4490.78,v1
+117,2023,10,Logistics,Vehicle Maintenance,3214.86,v1
+118,2023,10,Supply,Supplies,2248.66,v1
+119,2023,10,Supply,Warehousing,4478.97,v1
+120,2023,10,Supply,Cold Chain,2264.48,v1
+121,2023,11,HR,Salaries,1593.2,v1
+122,2023,11,HR,Training,2393.87,v1
+123,2023,11,HR,Recruitment,3696.09,v1
+124,2023,11,Medical,Medications,3127.0,v1
+125,2023,11,Medical,Medical Equipment,2159.3,v1
+126,2023,11,Medical,Consultations,1938.55,v1
+127,2023,11,Logistics,Fuel,4319.88,v1
+128,2023,11,Logistics,Transport,4263.27,v1
+129,2023,11,Logistics,Vehicle Maintenance,2185.21,v1
+130,2023,11,Supply,Supplies,2558.72,v1
+131,2023,11,Supply,Warehousing,2354.92,v1
+132,2023,11,Supply,Cold Chain,1121.71,v1
+133,2023,12,HR,Salaries,1115.45,v1
+134,2023,12,HR,Training,1830.19,v1
+135,2023,12,HR,Recruitment,2098.19,v1
+136,2023,12,Medical,Medications,2116.39,v1
+137,2023,12,Medical,Medical Equipment,3046.26,v1
+138,2023,12,Medical,Consultations,1463.1,v1
+139,2023,12,Logistics,Fuel,4061.74,v1
+140,2023,12,Logistics,Transport,3860.47,v1
+141,2023,12,Logistics,Vehicle Maintenance,4083.72,v1
+142,2023,12,Supply,Supplies,1535.47,v1
+143,2023,12,Supply,Warehousing,3398.12,v1
+144,2023,12,Supply,Cold Chain,3112.35,v1
+145,2024,01,HR,Salaries,3335.54,v1
+146,2024,01,HR,Training,4853.6,v1
+147,2024,01,HR,Recruitment,3391.68,v1
+148,2024,01,Medical,Medications,1732.65,v1
+149,2024,01,Medical,Medical Equipment,3417.55,v1
+150,2024,01,Medical,Consultations,4226.86,v1
+151,2024,01,Logistics,Fuel,4219.54,v1
+152,2024,01,Logistics,Transport,3938.87,v1
+153,2024,01,Logistics,Vehicle Maintenance,4789.73,v1
+154,2024,01,Supply,Supplies,1839.46,v1
+155,2024,01,Supply,Warehousing,2947.28,v1
+156,2024,01,Supply,Cold Chain,1121.28,v1
+157,2024,02,HR,Salaries,2985.29,v1
+158,2024,02,HR,Training,3565.42,v1
+159,2024,02,HR,Recruitment,4831.94,v1
+160,2024,02,Medical,Medications,4203.73,v1
+161,2024,02,Medical,Medical Equipment,2998.36,v1
+162,2024,02,Medical,Consultations,3681.48,v1
+163,2024,02,Logistics,Fuel,1108.02,v1
+164,2024,02,Logistics,Transport,4578.34,v1
+165,2024,02,Logistics,Vehicle Maintenance,2683.63,v1
+166,2024,02,Supply,Supplies,3293.01,v1
+167,2024,02,Supply,Warehousing,1558.3,v1
+168,2024,02,Supply,Cold Chain,1417.38,v1
+169,2024,03,HR,Salaries,3885.23,v1
+170,2024,03,HR,Training,3709.25,v1
+171,2024,03,HR,Recruitment,2608.71,v1
+172,2024,03,Medical,Medications,1782.98,v1
+173,2024,03,Medical,Medical Equipment,2458.21,v1
+174,2024,03,Medical,Consultations,2107.0,v1
+175,2024,03,Logistics,Fuel,3864.63,v1
+176,2024,03,Logistics,Transport,4729.76,v1
+177,2024,03,Logistics,Vehicle Maintenance,4715.35,v1
+178,2024,03,Supply,Supplies,4288.51,v1
+179,2024,03,Supply,Warehousing,3473.91,v1
+180,2024,03,Supply,Cold Chain,3862.13,v1
+181,2024,04,HR,Salaries,3608.48,v1
+182,2024,04,HR,Training,2223.04,v1
+183,2024,04,HR,Recruitment,3574.47,v1
+184,2024,04,Medical,Medications,2245.24,v1
+185,2024,04,Medical,Medical Equipment,2197.65,v1
+186,2024,04,Medical,Consultations,3396.15,v1
+187,2024,04,Logistics,Fuel,4473.16,v1
+188,2024,04,Logistics,Transport,3218.79,v1
+189,2024,04,Logistics,Vehicle Maintenance,4656.82,v1
+190,2024,04,Supply,Supplies,3536.05,v1
+191,2024,04,Supply,Warehousing,2609.9,v1
+192,2024,04,Supply,Cold Chain,1324.04,v1
+193,2024,05,HR,Salaries,2078.55,v1
+194,2024,05,HR,Training,4204.56,v1
+195,2024,05,HR,Recruitment,1963.56,v1
+196,2024,05,Medical,Medications,3768.04,v1
+197,2024,05,Medical,Medical Equipment,4256.78,v1
+198,2024,05,Medical,Consultations,2575.09,v1
+199,2024,05,Logistics,Fuel,4078.95,v1
+200,2024,05,Logistics,Transport,1115.25,v1
+201,2024,05,Logistics,Vehicle Maintenance,1350.23,v1
+202,2024,05,Supply,Supplies,3769.45,v1
+203,2024,05,Supply,Warehousing,2817.91,v1
+204,2024,05,Supply,Cold Chain,3778.64,v1
+205,2024,06,HR,Salaries,1484.45,v1
+206,2024,06,HR,Training,1568.69,v1
+207,2024,06,HR,Recruitment,1037.28,v1
+208,2024,06,Medical,Medications,1684.82,v1
+209,2024,06,Medical,Medical Equipment,2090.02,v1
+210,2024,06,Medical,Consultations,3131.77,v1
+211,2024,06,Logistics,Fuel,2261.16,v1
+212,2024,06,Logistics,Transport,1631.21,v1
+213,2024,06,Logistics,Vehicle Maintenance,2166.71,v1
+214,2024,06,Supply,Supplies,4510.4,v1
+215,2024,06,Supply,Warehousing,4511.75,v1
+216,2024,06,Supply,Cold Chain,2167.77,v1
+217,2024,07,HR,Salaries,3125.91,v1
+218,2024,07,HR,Training,3737.93,v1
+219,2024,07,HR,Recruitment,3972.28,v1
+220,2024,07,Medical,Medications,2827.46,v1
+221,2024,07,Medical,Medical Equipment,3209.07,v1
+222,2024,07,Medical,Consultations,4093.63,v1
+223,2024,07,Logistics,Fuel,2634.32,v1
+224,2024,07,Logistics,Transport,2079.35,v1
+225,2024,07,Logistics,Vehicle Maintenance,3675.97,v1
+226,2024,07,Supply,Supplies,1833.13,v1
+227,2024,07,Supply,Warehousing,2984.23,v1
+228,2024,07,Supply,Cold Chain,4921.8,v1
+229,2024,08,HR,Salaries,4533.29,v1
+230,2024,08,HR,Training,1061.32,v1
+231,2024,08,HR,Recruitment,4209.23,v1
+232,2024,08,Medical,Medications,3958.46,v1
+233,2024,08,Medical,Medical Equipment,4991.49,v1
+234,2024,08,Medical,Consultations,1768.93,v1
+235,2024,08,Logistics,Fuel,1219.52,v1
+236,2024,08,Logistics,Transport,1949.95,v1
+237,2024,08,Logistics,Vehicle Maintenance,3532.89,v1
+238,2024,08,Supply,Supplies,1908.94,v1
+239,2024,08,Supply,Warehousing,3558.01,v1
+240,2024,08,Supply,Cold Chain,1822.42,v1
+241,2024,09,HR,Salaries,1335.6,v1
+242,2024,09,HR,Training,1210.66,v1
+243,2024,09,HR,Recruitment,3521.87,v1
+244,2024,09,Medical,Medications,4138.48,v1
+245,2024,09,Medical,Medical Equipment,4997.14,v1
+246,2024,09,Medical,Consultations,2147.9,v1
+247,2024,09,Logistics,Fuel,1085.09,v1
+248,2024,09,Logistics,Transport,4070.64,v1
+249,2024,09,Logistics,Vehicle Maintenance,1450.05,v1
+250,2024,09,Supply,Supplies,2661.22,v1
+251,2024,09,Supply,Warehousing,1124.56,v1
+252,2024,09,Supply,Cold Chain,4800.27,v1
+253,2024,10,HR,Salaries,2655.52,v1
+254,2024,10,HR,Training,4113.72,v1
+255,2024,10,HR,Recruitment,3975.26,v1
+256,2024,10,Medical,Medications,4638.83,v1
+257,2024,10,Medical,Medical Equipment,2492.89,v1
+258,2024,10,Medical,Consultations,3656.39,v1
+259,2024,10,Logistics,Fuel,4785.38,v1
+260,2024,10,Logistics,Transport,4054.15,v1
+261,2024,10,Logistics,Vehicle Maintenance,1710.96,v1
+262,2024,10,Supply,Supplies,3163.45,v1
+263,2024,10,Supply,Warehousing,1398.08,v1
+264,2024,10,Supply,Cold Chain,4615.2,v1
+265,2024,11,HR,Salaries,3498.15,v1
+266,2024,11,HR,Training,4865.55,v1
+267,2024,11,HR,Recruitment,4550.15,v1
+268,2024,11,Medical,Medications,2687.0,v1
+269,2024,11,Medical,Medical Equipment,4084.3,v1
+270,2024,11,Medical,Consultations,1395.96,v1
+271,2024,11,Logistics,Fuel,3830.12,v1
+272,2024,11,Logistics,Transport,2191.59,v1
+273,2024,11,Logistics,Vehicle Maintenance,2707.92,v1
+274,2024,11,Supply,Supplies,4874.19,v1
+275,2024,11,Supply,Warehousing,4303.39,v1
+276,2024,11,Supply,Cold Chain,2151.22,v1
+277,2024,12,HR,Salaries,1431.34,v1
+278,2024,12,HR,Training,2542.35,v1
+279,2024,12,HR,Recruitment,1795.36,v1
+280,2024,12,Medical,Medications,3019.76,v1
+281,2024,12,Medical,Medical Equipment,2166.83,v1
+282,2024,12,Medical,Consultations,3033.99,v1
+283,2024,12,Logistics,Fuel,4270.37,v1
+284,2024,12,Logistics,Transport,4186.19,v1
+285,2024,12,Logistics,Vehicle Maintenance,4578.57,v1
+286,2024,12,Supply,Supplies,2429.43,v1
+287,2024,12,Supply,Warehousing,1227.27,v1
+288,2024,12,Supply,Cold Chain,1985.18,v1
+289,2025,01,HR,Salaries,4302.5,v1
+290,2025,01,HR,Training,4840.11,v1
+291,2025,01,HR,Recruitment,2400.39,v1
+292,2025,01,Medical,Medications,4100.16,v1
+293,2025,01,Medical,Medical Equipment,2040.46,v1
+294,2025,01,Medical,Consultations,3448.73,v1
+295,2025,01,Logistics,Fuel,3611.98,v1
+296,2025,01,Logistics,Transport,3619.52,v1
+297,2025,01,Logistics,Vehicle Maintenance,1550.25,v1
+298,2025,01,Supply,Supplies,2772.32,v1
+299,2025,01,Supply,Warehousing,4819.5,v1
+300,2025,01,Supply,Cold Chain,1488.73,v1
+301,2025,02,HR,Salaries,3133.48,v1
+302,2025,02,HR,Training,2388.05,v1
+303,2025,02,HR,Recruitment,4183.4,v1
+304,2025,02,Medical,Medications,4222.15,v1
+305,2025,02,Medical,Medical Equipment,4294.34,v1
+306,2025,02,Medical,Consultations,2901.1,v1
+307,2025,02,Logistics,Fuel,4076.01,v1
+308,2025,02,Logistics,Transport,1532.19,v1
+309,2025,02,Logistics,Vehicle Maintenance,4160.83,v1
+310,2025,02,Supply,Supplies,1855.28,v1
+311,2025,02,Supply,Warehousing,4320.83,v1
+312,2025,02,Supply,Cold Chain,4098.54,v1
+313,2025,03,HR,Salaries,1718.38,v1
+314,2025,03,HR,Training,3324.36,v1
+315,2025,03,HR,Recruitment,1798.23,v1
+316,2025,03,Medical,Medications,3843.54,v1
+317,2025,03,Medical,Medical Equipment,2961.88,v1
+318,2025,03,Medical,Consultations,3535.23,v1
+319,2025,03,Logistics,Fuel,4423.5,v1
+320,2025,03,Logistics,Transport,1557.27,v1
+321,2025,03,Logistics,Vehicle Maintenance,1456.03,v1
+322,2025,03,Supply,Supplies,1709.18,v1
+323,2025,03,Supply,Warehousing,1155.67,v1
+324,2025,03,Supply,Cold Chain,1794.9,v1
+325,2025,04,HR,Salaries,2961.46,v1
+326,2025,04,HR,Training,4350.07,v1
+327,2025,04,HR,Recruitment,4992.61,v1
+328,2025,04,Medical,Medications,4690.02,v1
+329,2025,04,Medical,Medical Equipment,1261.14,v1
+330,2025,04,Medical,Consultations,2538.13,v1
+331,2025,04,Logistics,Fuel,2607.43,v1
+332,2025,04,Logistics,Transport,4063.17,v1
+333,2025,04,Logistics,Vehicle Maintenance,3270.09,v1
+334,2025,04,Supply,Supplies,1678.51,v1
+335,2025,04,Supply,Warehousing,4561.95,v1
+336,2025,04,Supply,Cold Chain,2135.99,v1
+337,2025,05,HR,Salaries,1549.08,v1
+338,2025,05,HR,Training,4719.38,v1
+339,2025,05,HR,Recruitment,2098.72,v1
+340,2025,05,Medical,Medications,1331.94,v1
+341,2025,05,Medical,Medical Equipment,3539.87,v1
+342,2025,05,Medical,Consultations,4314.88,v1
+343,2025,05,Logistics,Fuel,1982.8,v1
+344,2025,05,Logistics,Transport,3771.41,v1
+345,2025,05,Logistics,Vehicle Maintenance,4000.84,v1
+346,2025,05,Supply,Supplies,1704.2,v1
+347,2025,05,Supply,Warehousing,4904.67,v1
+348,2025,05,Supply,Cold Chain,2545.78,v1
+349,2025,06,HR,Salaries,4580.21,v1
+350,2025,06,HR,Training,3135.61,v1
+351,2025,06,HR,Recruitment,3764.54,v1
+352,2025,06,Medical,Medications,3077.21,v1
+353,2025,06,Medical,Medical Equipment,4792.91,v1
+354,2025,06,Medical,Consultations,1222.67,v1
+355,2025,06,Logistics,Fuel,4395.6,v1
+356,2025,06,Logistics,Transport,1660.54,v1
+357,2025,06,Logistics,Vehicle Maintenance,1406.79,v1
+358,2025,06,Supply,Supplies,4416.26,v1
+359,2025,06,Supply,Warehousing,2100.86,v1
+360,2025,06,Supply,Cold Chain,1508.42,v1
+361,2025,07,HR,Salaries,2074.85,v1
+362,2025,07,HR,Training,4010.17,v1
+363,2025,07,HR,Recruitment,4061.77,v1
+364,2025,07,Medical,Medications,2376.53,v1
+365,2025,07,Medical,Medical Equipment,4199.39,v1
+366,2025,07,Medical,Consultations,4426.23,v1
+367,2025,07,Logistics,Fuel,3809.74,v1
+368,2025,07,Logistics,Transport,4451.05,v1
+369,2025,07,Logistics,Vehicle Maintenance,4789.17,v1
+370,2025,07,Supply,Supplies,3051.13,v1
+371,2025,07,Supply,Warehousing,3444.83,v1
+372,2025,07,Supply,Cold Chain,4178.83,v1
+373,2025,08,HR,Salaries,2123.79,v1
+374,2025,08,HR,Training,2109.88,v1
+375,2025,08,HR,Recruitment,2959.81,v1
+376,2025,08,Medical,Medications,4623.71,v1
+377,2025,08,Medical,Medical Equipment,2505.79,v1
+378,2025,08,Medical,Consultations,3456.26,v1
+379,2025,08,Logistics,Fuel,2392.13,v1
+380,2025,08,Logistics,Transport,4039.86,v1
+381,2025,08,Logistics,Vehicle Maintenance,3914.61,v1
+382,2025,08,Supply,Supplies,4443.22,v1
+383,2025,08,Supply,Warehousing,2580.95,v1
+384,2025,08,Supply,Cold Chain,4353.64,v1
+385,2025,09,HR,Salaries,4935.11,v1
+386,2025,09,HR,Training,1694.77,v1
+387,2025,09,HR,Recruitment,1413.73,v1
+388,2025,09,Medical,Medications,4722.94,v1
+389,2025,09,Medical,Medical Equipment,1101.21,v1
+390,2025,09,Medical,Consultations,1851.88,v1
+391,2025,09,Logistics,Fuel,2181.04,v1
+392,2025,09,Logistics,Transport,1482.37,v1
+393,2025,09,Logistics,Vehicle Maintenance,1713.59,v1
+394,2025,09,Supply,Supplies,3994.95,v1
+395,2025,09,Supply,Warehousing,2052.85,v1
+396,2025,09,Supply,Cold Chain,2280.08,v1
+397,2025,10,HR,Salaries,1661.25,v1
+398,2025,10,HR,Training,4620.96,v1
+399,2025,10,HR,Recruitment,3051.04,v1
+400,2025,10,Medical,Medications,1030.79,v1
+401,2025,10,Medical,Medical Equipment,2363.26,v1
+402,2025,10,Medical,Consultations,4264.87,v1
+403,2025,10,Logistics,Fuel,1036.1,v1
+404,2025,10,Logistics,Transport,4333.09,v1
+405,2025,10,Logistics,Vehicle Maintenance,4412.9,v1
+406,2025,10,Supply,Supplies,4683.22,v1
+407,2025,10,Supply,Warehousing,4015.77,v1
+408,2025,10,Supply,Cold Chain,1514.03,v1
+409,2025,11,HR,Salaries,1409.43,v1
+410,2025,11,HR,Training,3497.48,v1
+411,2025,11,HR,Recruitment,4388.07,v1
+412,2025,11,Medical,Medications,2661.45,v1
+413,2025,11,Medical,Medical Equipment,4802.62,v1
+414,2025,11,Medical,Consultations,3870.8,v1
+415,2025,11,Logistics,Fuel,1744.09,v1
+416,2025,11,Logistics,Transport,1251.12,v1
+417,2025,11,Logistics,Vehicle Maintenance,2436.0,v1
+418,2025,11,Supply,Supplies,4328.38,v1
+419,2025,11,Supply,Warehousing,2433.89,v1
+420,2025,11,Supply,Cold Chain,2013.98,v1
+421,2025,12,HR,Salaries,2636.2,v1
+422,2025,12,HR,Training,2089.53,v1
+423,2025,12,HR,Recruitment,4483.58,v1
+424,2025,12,Medical,Medications,1516.42,v1
+425,2025,12,Medical,Medical Equipment,2100.32,v1
+426,2025,12,Medical,Consultations,1601.58,v1
+427,2025,12,Logistics,Fuel,4836.64,v1
+428,2025,12,Logistics,Transport,4832.81,v1
+429,2025,12,Logistics,Vehicle Maintenance,2144.99,v1
+430,2025,12,Supply,Supplies,4428.73,v1
+431,2025,12,Supply,Warehousing,2613.74,v1
+432,2025,12,Supply,Cold Chain,3368.62,v1
